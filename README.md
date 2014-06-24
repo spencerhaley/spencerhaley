@@ -1,22 +1,22 @@
 *                                                                                                                         *
-                 ________________________________________________________________________________________________
-                *                                                                                                *
-                *       Spencer Haley                     SpencerHaley.com                    619.800.2414       *
-                *________________________________________________________________________________________________*
-                *                                                                                                *
-                *                                                                                                *
-                *         ___                                                _    _                              *
-                *        /   )                                               /   /           /                   *
-                *        \       __     __     __    __     __    ,__       /__ /    __     /    __              *
-                *         \    /   )  /___)  /   )  /  '  /___)  /   )     /   /   /   )   /   /___)  /   /      *
-                *     (___/   /___/  (___   /   /  (___  (___   /         /   /   (___(_  /   (___   (___/       *
-                *            /                                                                          /        *
-                *           /                                                                       (_ /         *
-                *                                                                                                *
-                *________________________________________________________________________________________________*
-                *                                                                                                *
-                *   Spencer.Haley on Skype              GitHub /SpencerHaley             Twitter @SpencerHaley   *
-                *________________________________________________________________________________________________*
+                ________________________________________________________________________________________________
+               *                                                                                                *
+               *       Spencer Haley                     SpencerHaley.com                    619.800.2414       *
+               *________________________________________________________________________________________________*
+               *                                                                                                *
+               *                                                                                                *
+               *         ___                                                _    _                              *
+               *        /   )                                               /   /           /                   *
+               *        \       __     __     __    __     __    ,__       /__ /    __     /    __              *
+               *         \    /   )  /___)  /   )  /  '  /___)  /   )     /   /   /   )   /   /___)  /   /      *
+               *     (___/   /___/  (___   /   /  (___  (___   /         /   /   (___(_  /   (___   (___/       *
+               *            /                                                                          /        *
+               *           /                                                                       (_ /         *
+               *                                                                                                *
+               *________________________________________________________________________________________________*
+               *                                                                                                *
+               *   Spencer.Haley on Skype              GitHub /SpencerHaley             Twitter @SpencerHaley   *
+               *________________________________________________________________________________________________*
                 
 Permission is hereby granted to any person obtaining a copy of this software and associated documentation files (the
 "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
