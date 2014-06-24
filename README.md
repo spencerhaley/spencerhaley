@@ -12,7 +12,7 @@
                            
                  _____________________________________________________________________________________________
 
-                             Spencer Haley               SpencerHaley.com               619.800.2414
+                            Spencer Haley               SpencerHaley.com               619.800.2414
                  _____________________________________________________________________________________________
 
 Permission is hereby granted to any person obtaining a copy of this software and associated documentation files (the
